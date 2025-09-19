@@ -1,0 +1,6 @@
+File,Total Rows,Real Count,Fake Count,Avg Confidence
+sdg_news_01_cleaned.csv,32,11,21,0.35136843
+rt_news_cleaned.csv,1540,961,579,0.6209554
+gt_news_cleaned_04.csv,1256,950,306,0.75481355
+euro_news_clean.csv,3271,1742,1529,0.5369084
+inian_news_cleaned.csv,501,226,275,0.41817617
